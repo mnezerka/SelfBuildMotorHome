@@ -8,6 +8,7 @@ na Facebooku.
 * [Elektroinstalace](electricity.md)
 * [Zabezpečení](security.md)
 * [Karosérie (okna, hluk, teplo)](body.md)
+* [Různé tipy](tips.md)
 
 ## Zdroje informací
 
