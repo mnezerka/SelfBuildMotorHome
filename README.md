@@ -7,6 +7,7 @@ na Facebooku.
 
 * [Elektroinstalace](electricity.md)
 * [Zabezpečení](security.md)
+* [Karosérie (okna, hluk, teplo)](body.md)
 
 ## Zdroje informací
 
