@@ -5,6 +5,9 @@ uspořádání všech infomací, které se sice dají vždy někde najít, ale
 ne každému se chce pročítat nekonečná vlákna diskusí nebo řady příspěvků
 na Facebooku.
 
+* [Elektroinstalace](electricity.md)
+* [Zabezpečení](security.md)
+
 ## Zdroje informací
 
 * Obecně o přestavbách
