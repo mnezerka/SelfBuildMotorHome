@@ -1,7 +1,7 @@
-# Honza Kohoutek
+# Honza K
 
 * https://www.facebook.com/groups/1747780735471962/user/1660046460
-* cerveny Ford Jumbo 
+* cerveny Ford Jumbo
 * drazsi okna, vypada to super, detaily fotek z montaze   tmel na bocni Sikaflex 221i - neni dobre
  tmel stresni 223 UV
 

@@ -5,11 +5,6 @@ uspořádání všech infomací, které se sice dají vždy někde najít, ale
 ne každému se chce pročítat nekonečná vlákna diskusí nebo řady příspěvků
 na Facebooku.
 
-* [Elektroinstalace](electricity.md)
-* [Zabezpečení](security.md)
-* [Karosérie (okna, hluk, teplo)](body.md)
-* [Různé tipy](tips.md)
-
 ## Zdroje informací
 
 * Obecně o přestavbách
