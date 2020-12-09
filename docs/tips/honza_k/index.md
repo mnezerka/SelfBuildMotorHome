@@ -12,3 +12,12 @@
 ![img2](images/sedacky_druha_rada_intap_uchyceni_2.jpg)
 
 ![img3](images/sedacky_druha_rada_intap_uchyceni_3.jpg)
+
+## Poličky bez dvířek
+
+![img](images/vestavba_policky_bez_dvirek.jpg)
+
+## Tlumení zvuku
+
+![img](images/vestavba_tlumeni_zvuku.jpg)
+
