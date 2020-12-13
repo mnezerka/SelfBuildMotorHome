@@ -25,5 +25,7 @@ nav:
   - "L & M": tips/l_and_m/index.md
 - Ducato: ducato.md
 - Zdroje informací: resources.md
+- "Mé auto":
+  - Přehled: my/index.md
 copyright: Copyright &copy; 2020 Michal Nezerka
 
