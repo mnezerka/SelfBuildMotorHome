@@ -1,6 +1,6 @@
 # Mé auto
 
-## Co bych tam chtěl mít
+# Co bych tam chtěl mít
 
 * postele
   * patrové pro 4 lidi v zadní části
@@ -29,6 +29,7 @@
 * okna - díry, rámečky, vsazení
 * odmontování přepážky
 * podlaha - izolace, povrch
+* střešní koš, zahrádka, např. [CRUZ](https://www.stresni-nosice.org/0,84,fiat.html/0,443,ducato--od-2006-.html/stresni-kos-fiat-ducato--dlouhy--stredne-vysoky--od-2006,7114.html)
 * izolace - stěny, dveře a schránka nad kabinou
 * elektřina - rozvody
 * obložení stěn a stropu

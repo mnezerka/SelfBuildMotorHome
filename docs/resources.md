@@ -1,5 +1,14 @@
 # Zdroje informací
 
-* Obecně o přestavbách
-  * https://www.sbmcc.co.uk/
-  * Kniha: Self Build Campervan Conversions - Biggin KennyP
+## Obecně o přestavbách
+
+- https://www.sbmcc.co.uk/
+- Kniha: Self Build Campervan Conversions - Biggin KennyP
+
+
+## Firmy, které se zabývají vestavbami
+
+- [PSCustom](https://www.pscustom.cz/) - má oblíbená firma, pečlivě sledují
+  vše co dělají
+- [KRS](https://www.krs.cz/)
+- [Wejnywood](http://vejnywood.cz/)

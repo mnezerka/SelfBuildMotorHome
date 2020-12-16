@@ -2,7 +2,9 @@
 
 ## Přepis kategorie z N1
 
-* [vanilifeczsk.cz](https://www.vanlifeczsk.cz/oficialni-prepis-dodavky-na-obytny-vuz/)
+Dobrý článek o procesu legalizace na [vanilifeczsk.cz](https://www.vanlifeczsk.cz/oficialni-prepis-dodavky-na-obytny-vuz/)
+
+A tady něco obecného, co jsem někde našel:
 
 ```
 Výňatek ze zákona č.56/2001 Sb.
