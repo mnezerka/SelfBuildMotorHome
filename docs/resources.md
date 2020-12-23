@@ -12,3 +12,4 @@
   vše co dělají
 - [KRS](https://www.krs.cz/)
 - [Wejnywood](http://vejnywood.cz/)
+- [Turcan Auto SK](https://www.turcan-auto.sk/) - spousta tipů a fotek z realizovaných vestaveb
