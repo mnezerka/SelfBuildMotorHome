@@ -10,9 +10,11 @@
 
 Hodně lidí používá K-FLEX, který lze koupit na metráž se samolepicí stranou.
 Dá se pořídit např. na [stavbakravanu.cz ve sekci izolace a zateplení](https://www.stavbakaravanu.cz/izolace-zatepleni/),
-kde je i celkem obsáhlý návod k instalaci.
+kde je i celkem obsáhlý návod k instalaci nebo v [nomadshop.cz](https://www.nomadshop.cz/p/k-flex-samolepici-izolace-s-al-laminaci-m).
 
-Jak tlustou vrstvu? Tady je několik názorů:
+Jak silný K-Flex vybrat?
+
+Tady je několik názorů:
 
 * technik z K-flexu psal, že 20mm do prohlubní a pak přes celé celistvý pás 10mm. No nevyjde to nejlevněji...
 * mám zatepleno K-flexem, strop boky 25mm s AL vrstvou (spodek boků 20mm), podlaha pod deskou 20mm plus navíc 10mm v prohlubních.
