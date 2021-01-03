@@ -13,3 +13,4 @@
 - [KRS](https://www.krs.cz/)
 - [Wejnywood](http://vejnywood.cz/)
 - [Turcan Auto SK](https://www.turcan-auto.sk/) - spousta tipů a fotek z realizovaných vestaveb
+- [Kobras](https://kobras.cz/) - hodně různých dílů, otočné konzole
