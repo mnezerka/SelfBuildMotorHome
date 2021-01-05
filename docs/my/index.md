@@ -28,7 +28,7 @@
 
 * okna - díry, rámečky, vsazení
 * odmontování přepážky
-* podlaha - izolace, povrch
+* podlaha - izolace, povrch - [Styrodur 3000 cs](https://www.isover.cz/produkty/styrodur-3000-cs)
 * střešní koš, zahrádka, např. [CRUZ](https://www.stresni-nosice.org/0,84,fiat.html/0,443,ducato--od-2006-.html/stresni-kos-fiat-ducato--dlouhy--stredne-vysoky--od-2006,7114.html)
 * izolace - stěny, dveře a schránka nad kabinou
 * elektřina - rozvody
