@@ -32,7 +32,7 @@
 * střešní koš, zahrádka, např. [CRUZ](https://www.stresni-nosice.org/0,84,fiat.html/0,443,ducato--od-2006-.html/stresni-kos-fiat-ducato--dlouhy--stredne-vysoky--od-2006,7114.html)
 * izolace - stěny, dveře a schránka nad kabinou
 * elektřina - rozvody
-* obložení stěn a stropu
+* obložení stěn a stropu - [samolepici koberec od AHIFI](https://www.ahifi.cz/potahovy-koberec-do-auta/)
 * elektřina - montáž zařízení
 * topení
 * postele
