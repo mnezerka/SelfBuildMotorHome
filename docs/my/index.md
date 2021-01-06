@@ -16,8 +16,8 @@
 * okna
   * zadní okna jen zalepit tmavou fólií
   * boční okna v úrovni sedaček a kuch. linky
-  * střešní okno nad zadní postelí
-  * střešní okno s větrákem v přední části vestavby
+  * střešní okno nad zadní postelí - https://www.svetkaravanu.cz/stresni-okno-dometic-seitz-mini-heki-style-bez-ventilace
+  * střešní okno s větrákem v přední části vestavby Maxx2Fan
   * střešní větrák nad budoucí koupelnou
 * topení
   * ideálně na naftu s oddělenou nádrží
