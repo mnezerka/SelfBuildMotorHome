@@ -9,7 +9,7 @@
 ## Firmy, které se zabývají vestavbami
 
 - [PSCustom](https://www.pscustom.cz/) - má oblíbená firma, pečlivě sledují
-  vše co dělají
+  vše co dělají. V sekci [tipy](tips/pscustom/index.md) je výběr několika řešení a technologií
 - [KRS](https://www.krs.cz/)
 - [Wejnywood](http://vejnywood.cz/)
 - [Turcan Auto SK](https://www.turcan-auto.sk/) - spousta tipů a fotek z realizovaných vestaveb

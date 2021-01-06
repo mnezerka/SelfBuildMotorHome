@@ -26,10 +26,11 @@ nav:
   - Zvedací - upínací lišty: beds/clamping_rails.md
   - Zvedací - Two In One: beds/two_in_one.md
 - Legalizace: legalization.md
-- Tips:
+- Tipy:
   - Honza K: tips/honza_k/index.md
   - nomadem.cz: tips/nomadem_cz/index.md
   - "L & M": tips/l_and_m/index.md
+  - PSCustom: tips/pscustom/index.md
 - Zdroje informací: resources.md
 - "Mé auto":
   - Přehled: my/index.md
