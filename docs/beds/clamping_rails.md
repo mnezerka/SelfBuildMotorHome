@@ -23,14 +23,12 @@ Takhle vypadá lišta:
 Lišty v dodávce:
 
 ![](images_clamping_rails/airline_rails_mounted.jpg){: style="width:400px"}
-
 ![](images_clamping_rails/airline_rails_mounted2.jpg){: style="width:400px"}
 
 
 Upevnění nákladu:
 
 ![](images_clamping_rails/airline_rails_mounted.jpg){: style="width:400px"}
-
 ![](images_clamping_rails/airline_rails_mounted3.jpg){: style="width:400px"}
 
 
@@ -41,10 +39,7 @@ založené na úplně stejné myšlence. S [geniálním řešením přišla firm
 Adventure Wagon](https://adventurewagon.com/collections/mercedes-sprinter/products/interior-conversion-kit-for-sprinter)
 
 ![](images_clamping_rails/adventure_wagon_bed.jpg)
-
 ![](images_clamping_rails/adventure_wagon_bed2.jpg)
-
 ![](images_clamping_rails/adventure_wagon_side_rail.jpg)
-
-![](images_clamping_rails/aadventure_wagon_side_rail2.jpg)
+![](images_clamping_rails/adventure_wagon_side_rail2.jpg)
 
