@@ -23,8 +23,9 @@ nav:
   - Odhlučnění a izolace: body.md
   - Okna: windows.md
 - Postele:
-  - Zvedací - upínací lišty: beds/clamping_rails.md
-  - Zvedací - Two In One: beds/two_in_one.md
+  - "Zvedací - upínací lišty": beds/clamping_rails.md
+  - "Zvedací - Two In One": beds/two_in_one.md
+- Sedadla: seats.md
 - Legalizace: legalization.md
 - Tipy:
   - Honza K: tips/honza_k/index.md
