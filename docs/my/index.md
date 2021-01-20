@@ -23,6 +23,7 @@
   * ideálně na naftu s oddělenou nádrží
 * elektřina
   * baterka s dobíjením z alternátoru nebo sítě 230V
+* nosic na strechu - jen pricky - https://www.dodavkyeshop.cz/Stresni-nosic-CRUZ-Citroen-Jumper-Peugeot-Boxer-Fiat-Ducato-3-pricniky-35x35-L1H1-L4H3-d504.htm  
 
 ## Jak na to
 
