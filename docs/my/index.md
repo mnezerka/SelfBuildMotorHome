@@ -5,8 +5,8 @@
 * postele
   * patrové pro 4 lidi v zadní části
   * ideálně s možností změny výšky
-  * kde sehnat airline system: https://www.alsap.cz/airline-system-c538/
-  * kde sehnat hlinkovy profil pro vodorovnou pricku: http://www.alms-brno.cz/
+  * kde sehnat airline system: [Alsap Brno](https://www.alsap.cz/airline-system-c538/)
+  * kde sehnat hlinkovy profil pro vodorovnou pricku: [Alms Brno](http://www.alms-brno.cz/)
 * dvě sedadla vpředu s uličkou pro průchod dozadu
 * dvě sedadla vzadu - posuvná, vyndavací
 * stolek - skládací, roztahovací
