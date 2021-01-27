@@ -1,5 +1,6 @@
 site_name: Self Build Motor Home
 site_author: Michal Nezerka
+repo_url: https://github.com/mnezerka/SelfBuildMotorHome/
 theme:
   name: material
 #  palette:
