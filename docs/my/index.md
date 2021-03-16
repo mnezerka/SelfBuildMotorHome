@@ -8,9 +8,7 @@
   * ideálně s možností změny výšky
   * kde sehnat airline system: [Alsap Brno](https://www.alsap.cz/airline-system-c538/)
   * kde sehnat hlinkovy profil pro vodorovnou pricku: [Alms Brno](http://www.alms-brno.cz/)
-  
-* dvě sedadla vpředu s uličkou pro průchod dozadu
-* dvě sedadla vzadu - posuvná, vyndavací
+
 * stolek - skládací, roztahovací
 * kuchyňská linka
 
@@ -18,29 +16,16 @@
   * druhá dvířka ven z auta
   * umyvadlo s odklopnou deskou
   * vařič jednoduchý přenosný
-  
+
 * okna
 
-  * zadní okna jen zalepit tmavou fólií
-  * boční okna v úrovni sedaček a kuch. linky
   * střešní okno nad zadní postelí - https://www.svetkaravanu.cz/stresni-okno-dometic-seitz-mini-heki-style-bez-ventilace
   * střešní okno s větrákem v přední části vestavby Maxx2Fan
-  * střešní větrák nad budoucí koupelnou
-  
-* topení
 
-  * ideálně na naftu s oddělenou nádrží
-  
-* elektřina
-
-  * baterka s dobíjením z alternátoru nebo sítě 230V
-  
 * nosic na strechu - jen pricky - https://www.dodavkyeshop.cz/Stresni-nosic-CRUZ-Citroen-Jumper-Peugeot-Boxer-Fiat-Ducato-3-pricniky-35x35-L1H1-L4H3-d504.htm  
 
 ## Jak na to
 
-* okna - díry, rámečky, vsazení
-* odmontování přepážky
 * podlaha - izolace, povrch - [Styrodur 3000 cs](https://www.isover.cz/produkty/styrodur-3000-cs)
 * střešní koš, zahrádka, např. [CRUZ](https://www.stresni-nosice.org/0,84,fiat.html/0,443,ducato--od-2006-.html/stresni-kos-fiat-ducato--dlouhy--stredne-vysoky--od-2006,7114.html)
 * izolace - stěny, dveře a schránka nad kabinou
