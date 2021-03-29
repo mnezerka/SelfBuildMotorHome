@@ -4,29 +4,27 @@
 
 * postele
 
-  * patrové pro 4 lidi v zadní části
-  * ideálně s možností změny výšky
-  * kde sehnat airline system: [Alsap Brno](https://www.alsap.cz/airline-system-c538/)
-  * kde sehnat hlinkovy profil pro vodorovnou pricku: [Alms Brno](http://www.alms-brno.cz/)
+   * patrové pro 4 lidi v zadní části
+   * ideálně s možností změny výšky
+   * kde sehnat airline system: [Alsap Brno](https://www.alsap.cz/airline-system-c538/)
+   * kde sehnat hlinkovy profil pro vodorovnou pricku: [Alms Brno](http://www.alms-brno.cz/)
 
 * stolek - skládací, roztahovací
 * kuchyňská linka
 
-  * možnost roztažení pracovní plochy do prostoru dveří
-  * druhá dvířka ven z auta
-  * umyvadlo s odklopnou deskou
-  * vařič jednoduchý přenosný
-
-* okna
-
-  * střešní okno nad zadní postelí - https://www.svetkaravanu.cz/stresni-okno-dometic-seitz-mini-heki-style-bez-ventilace
-  * střešní okno s větrákem v přední části vestavby Maxx2Fan
+   * možnost roztažení pracovní plochy do prostoru dveří
+   * druhá dvířka ven z auta
+   * umyvadlo s odklopnou deskou
+   * vařič jednoduchý přenosný
 
 * nosic na strechu - jen pricky - https://www.dodavkyeshop.cz/Stresni-nosic-CRUZ-Citroen-Jumper-Peugeot-Boxer-Fiat-Ducato-3-pricniky-35x35-L1H1-L4H3-d504.htm  
 
 ## Jak na to
 
 * podlaha - izolace, povrch - [Styrodur 3000 cs](https://www.isover.cz/produkty/styrodur-3000-cs)
+* oblozeni - drevena vydreva - prumyslova: 
+   * [dodavkyeshop.cz](https://www.dodavkyeshop.cz/Oblozeni-bocnich-sten-preklizka-4-mm-Citroen-Jumper-Peugeot-Boxer-Fiat-Ducato-L4H2-d212.htm)
+   * [dkstyle](https://dkstyle.cz/vydreva-dodavek/)
 * střešní koš, zahrádka, např. [CRUZ](https://www.stresni-nosice.org/0,84,fiat.html/0,443,ducato--od-2006-.html/stresni-kos-fiat-ducato--dlouhy--stredne-vysoky--od-2006,7114.html)
 * izolace - stěny, dveře a schránka nad kabinou
 * elektřina - rozvody
