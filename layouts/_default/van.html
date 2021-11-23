@@ -1,0 +1,15 @@
+{{ partial "header" . }}
+
+<main>
+
+    <h2>{{ .Title }}</h2>
+
+    <p>{{ .Content}}</p>
+
+    {{ range .Pages }}
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ end }}
+
+</main>
+
+{{ partial "footer" . }}

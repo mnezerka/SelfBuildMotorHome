@@ -1,0 +1,10 @@
+"baseURL": http://example.org/
+languageCode: en-us
+title: Stavíme Bydlíka 
+
+SectionPagesMenu: main
+
+params:
+  author: ""
+  favicon: ""
+  description: The last theme you'll ever need. Maybe.
