@@ -15,7 +15,7 @@
     <body>
 
         <nav class="navbar">
-            <a class="navbar-brand" href="/">{{ .Site.Title }}</a>
+            <a class="navbar-brand" href="{{ $.Site.BaseURL }}">{{ $.Site.Title }}</a>
             {{ if .Site.Menus.main }}
                 <div class="navbar-menu">
                     {{ range sort .Site.Menus.main }}
