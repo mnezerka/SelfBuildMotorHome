@@ -1,10 +1,10 @@
-"baseURL": http://example.org/
+baseURL: https://mnezerka.github.io/SelfBuildMotorHome/
 languageCode: en-us
-title: Stavíme Bydlíka 
+title: Stavíme Bydlíka
 
 SectionPagesMenu: main
 
 params:
   author: ""
   favicon: ""
-  description: The last theme you'll ever need. Maybe.
+  description: How to build motor home
