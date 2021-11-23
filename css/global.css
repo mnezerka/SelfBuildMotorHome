@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+a, a:visited {
+    color: #069;
+    text-decoration: none;
+}
+
+main {
+    padding: 10px;
+}
+
+.navbar {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    background-color: #666;
+    padding: 10px;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar-menu ul {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-menu ul li {
+    list-style-type: none;
+}
