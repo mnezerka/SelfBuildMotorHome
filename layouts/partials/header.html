@@ -21,6 +21,9 @@
                     {{ range sort .Site.Menus.main }}
                         <a href="{{ .URL }}">{{ .Name }}</a>
                     {{ end }}
+                    <a href="{{ $.Site.BaseURL }}tags/">Tags</a>
                 </div>
             {{ end }}
         </nav>
+
+        {{ partial "breadcrumbs.html" . }}
