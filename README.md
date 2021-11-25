@@ -16,8 +16,9 @@ Generate static content:
 hugo --minify
 ```
 
-## Hugo:
+## Hugo tips:
 
 * https://christianspecht.de/2020/08/10/creating-an-image-gallery-with-hugo-and-lightbox2/
 * https://nevinsky.net/post/how-to-create-gallery-in-hugo-post/
 * https://github.com/calintat/minimal/
+* [Use of resources](https://www.regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/)
