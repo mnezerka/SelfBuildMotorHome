@@ -1,6 +1,6 @@
 ---
 title: Lišta pro oklad přepážky, plánování příček 
-date: 2022-04-21
+date: 2022-04-20
 ---
 
 **Přepážka za sedadlem** 
