@@ -10,7 +10,7 @@
                 {{ end }}
             {{ end }}
         {{ end }}
-        {{ if gt (len $part ) 0 }}
+        {{ if gt (len $part ) 1 }}
             / <a href="/{{ $.Scratch.Get "url" }}">{{ humanize (replace $part "posts" "blog") }}</a>
         {{ end }}
     {{ end }}
