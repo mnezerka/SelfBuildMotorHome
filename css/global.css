@@ -7,7 +7,7 @@ html, body {
 
 body {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
 }
 
 a, a:visited {
@@ -15,25 +15,31 @@ a, a:visited {
     text-decoration: none;
 }
 
+.content {
+    width: 1000px;
+}
+
 main {
     padding: 0px 10px 40px 10px;
 }
 
 #breadcrumbs {
-    padding: 0px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
 }
 
 .navbar {
     flex-direction: row;
     display: flex;
     justify-content: space-between;
-    background-color: #666;
+    /*background-color: #666;*/
     padding: 10px;
-    color: white;
+    /*color: white;*/
+    border-bottom: 1px solid gray;
 }
 
 .navbar a {
-    color: white;
+    /*color: white;*/
+    font-weight: bold;
 }
 
 .navbar-menu ul {
