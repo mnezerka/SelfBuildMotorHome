@@ -23,6 +23,16 @@ main {
     padding: 0px 10px 40px 10px;
 }
 
+.title-image {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.title-image img {
+    width: 700px;
+}
+
 #breadcrumbs {
     padding: 10px 10px 10px 10px;
 }
