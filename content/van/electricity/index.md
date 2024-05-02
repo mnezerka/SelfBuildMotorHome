@@ -4,16 +4,6 @@ title: "Elektřina"
 
 {{< figure src="images/elektrina_schema.png" >}}
 
-## Solární flexi panel
-
-120W, časem vyměním za větší
-
-## [CTEK D250SE](https://campi-servis.cz/produkt/nabijecka-ctek-d250se-12v-20a/)
-
-Nabíjení nástavbové baterie ze solárního panelu nebo alternátoru (za jízdy).
-Nabíječka si sama vybírá nejlepší zdroj proudu. Nabíjí primárně nástavbovou
-baterii, pak začne dobíjet i startovací baterii (proud dodává solární panel)
-
 ## [Sunstone Power 150Ah LiFePO4](https://campi-servis.cz/produkt/lifepo4-baterie-12v-150ah-sunstone-power-slpo12-150n/)
 
 Nástavbová baterie umístěná pod sedadlem řidiče.
@@ -44,6 +34,13 @@ pro sledování baterie přes bluetooth):
 90%  | 3320mV | 13.28  |
 100% | 3330mV | 13.32  |
 
+## Votronic VCC 1212-50
+
+Nabíječka z alternátoru (Booster). Je chlazený a dokáže dobíjet až 50A. Taky umí
+propouštět proud zpět z nástavby do startovací baterie a udržovat ji tak nabitou
+z proudu, který vyrobí solární panel.
+
+{{< link "documents/votronic_vcc1212-50_70_90_user_manual.pdf" >}}User Manual{{< /link >}}
 
 ## [TYTXRV](https://www.aliexpress.com/item/32913531828.html)
 
@@ -74,4 +71,23 @@ napětím protéká malý proud.
 
 Možnost připojit auto k 230V pro dobití nástavbové baterie. Tato nabíječka
 má BlueTooth rozhraní a dá se pěkně sledovat přes aplikaci VictronConnect.
+
+## Již nepoužívám
+
+### [CTEK D250SE](https://campi-servis.cz/produkt/nabijecka-ctek-d250se-12v-20a/)
+
+Nabíjení nástavbové baterie ze solárního panelu nebo alternátoru (za jízdy).
+Nabíječka si sama vybírá nejlepší zdroj proudu. Nabíjí primárně nástavbovou
+baterii, pak začne dobíjet i startovací baterii (proud dodává solární panel)
+
+Neměl jsem s ní moc dobré zkušenosti:
+
+- někdy za jízdy nedobíjel polovibitou baterku a nedalo se zjistit proč. Nemá žádný kontrolní panel ani možnost připojení přes Bluetooth. Musel jsem na BMS baterie odpojit a zapojit dobíjení - pak vše fungovalo.
+- taky byl problem v případě totálně vybité baterie, musel jsem ji trošku dobít ze sítě (AC/DC), pak se chytl.
+- malý nabíjecí proud - za jízdy kolem 18A.
+
+### Solární flexi panel
+
+120W, nic moc, časem přestával fungovat, dodával málo, byl skoro zbytečný
+
 
