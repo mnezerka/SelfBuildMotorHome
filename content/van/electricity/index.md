@@ -2,7 +2,7 @@
 title: "Elektřina"
 ---
 
-{{< figure src="images/elektrina_schema.png" >}}
+TODO: nakreslit schema
 
 ## [Sunstone Power 150Ah LiFePO4](https://campi-servis.cz/produkt/lifepo4-baterie-12v-150ah-sunstone-power-slpo12-150n/)
 
